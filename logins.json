@@ -1,1 +1,54 @@
-
+{
+    "usuarios": [
+        {
+            "usuario": "teste01",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "teste02",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "teste03",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "teste04",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "teste05",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "admin",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "dev",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "vip",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "user09",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        },
+        {
+            "usuario": "user10",
+            "senha": "senha123",
+            "expira": "2030-01-01 10:00:00"
+        }
+    ]
+}
