@@ -1,51 +1,6 @@
 {
     "usuarios": [
         {
-            "usuario": "gaaratv",
-            "senha": "gaara212121",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "luan",
-            "senha": "luan21",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "tutu",
-            "senha": "tutu21",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "caua",
-            "senha": "caua21",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "gaspar",
-            "senha": "gaspar21",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "mizer",
-            "senha": "mizer21",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "dev",
-            "senha": "senha123",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "vip",
-            "senha": "senha123",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
-            "usuario": "leo",
-            "senha": "leodutra",
-            "expira": "2030-01-01 10:00:00"
-        },
-        {
             "usuario": "user10",
             "senha": "senha123",
             "expira": "2030-01-01 10:00:00"
