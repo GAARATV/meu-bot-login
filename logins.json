@@ -1,14 +1,13 @@
-{{{{{{{{{{{{
-  {{{{{{{{{{{apaggar essa lin
+{
   "usuarios": [
     {
-      "usuario": "550",
-      "senha": "550",
+      "usuario": "9",
+      "senha": "9",
       "expira": "2030-01-01 10:00:00"
     },
     {
-      "usuario": "122",
-      "senha": "122",
+      "usuario": "77",
+      "senha": "77",
       "expira": "2030-01-01 10:00:00"
     }
   ]
